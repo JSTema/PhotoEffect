@@ -1,0 +1,20 @@
+#myslide{
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 375px;
+	height: 400px;
+	border: 2px dashed #795434;
+	position: relative;
+	overflow: hidden;
+}
+
+#one, #two {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 375px;
+	height: 400px;
+	overflow: hidden;
+	
+}
+
